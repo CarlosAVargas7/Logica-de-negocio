@@ -1,1 +1,1 @@
-este es un redpositorio para resolver retos
+Este es un repositorio para resolver retos
